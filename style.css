@@ -1,0 +1,57 @@
+
+header{
+    width: 100%;
+    height:60px;
+    padding:5px 10px;
+   background-color:rgb(140, 197, 230);
+    position: relative;
+    
+}
+nav{
+position: absolute;
+right: 30px;
+top:20px;
+color: #fff;
+
+}
+h1{
+    background-color:white;
+    color:#000;
+    width: 80px; 
+    height: 20px;
+    font-size: medium;
+    text-align: center;
+     margin-top: 10px; 
+}
+  span{
+    margin: 10px;
+ } 
+.sec1{
+    background-color: rgb(85, 154, 206);
+     width: 100%;
+    height: 200px;
+    color: #fff; 
+    display: inline-block;
+    text-align: center;
+    padding-top: 100px;
+}
+.sec2{
+    background-image: url(imges/sea-nature-sky-457881.jpg);
+    width: 100%;
+    height: 200px;
+    color: #fff;
+    padding-top: 100px;
+}
+img{
+    width: 400px;
+    padding: auto;
+}
+
+footer{
+    text-align: center;
+}
+p{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(64, 97, 125);
+}
